@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/movie-review-app-main"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../rough work"
+		},
+		{
+			"path": "../bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web app project"
+	}
+}
